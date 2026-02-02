@@ -1,4 +1,4 @@
-gzip — simple DEFLATE compressor (educational)
+gzip — simple DEFLATE compressor
 =============================================
 
 Overview
